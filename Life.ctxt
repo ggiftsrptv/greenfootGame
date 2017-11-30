@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Life
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Life\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Life()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Life.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Life\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ getLife()
+comment3.text=\r\n\ if\ life\ touch\ with\ class\ Pony,\r\n\ it\ will\ update\ level\ of\ life.\r\n
+comment4.params=
+comment4.target=void\ switchImage()
+comment4.text=\r\n\ Animate\ life.\r\n\ \r\n
+numComments=5

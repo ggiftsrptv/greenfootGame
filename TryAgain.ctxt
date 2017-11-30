@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TryAgain
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ tryAgain\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ tryAgain\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ changeWorld()
+comment2.text=\r\n\ This\ method\ will\ change\ the\ world\ from\ class\ Gameover\ to\ Playing\r\n\ and\ this\ method\ will\ call\ method\ pause\ of\ class\ Gameover\r\n
+numComments=3
